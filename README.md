@@ -18,7 +18,7 @@ It intelligently extracts key information—like **Section**, **Challan No.**, a
 
 If you just want to run the tool, follow these steps:
 
-1.  **Download the latest `.exe`:** [[Insert Google Drive/External Link to .EXE here]](https://drive.google.com/file/d/1b-_XuYsWEOdiAYPy_O5hHAj4OmpwH1-q/view?usp=sharing)
+1.  **Download the latest `.exe`:** [Google Drive Link To Download Application](https://drive.google.com/file/d/1b-_XuYsWEOdiAYPy_O5hHAj4OmpwH1-q/view?usp=sharing)
 2.  **Run the file.**
 3.  The application will prompt you to **enter the full path of the folder** containing your Challan PDFs.
 4.  Enter the path (e.g., `C:\Users\Public\MyChallans`) and press Enter.
